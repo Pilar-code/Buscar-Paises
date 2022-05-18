@@ -42,17 +42,13 @@ boton.addEventListener('click', filtrar);
 
 filtrar();
 
+//Codigo para filtrar la busqueda de los paises 
 
-
-///Codigo para filtrar la busqueda de los paises 
-
-/* 
-const Continentes = document.querySelector('#continentes');
+/* const Continentes = document.querySelector('#continentes');
 
 let filtrado = paises.filter((Continente)=> {
     if (Continente == "America"){
         console.log("Paises encontrados");
     }
 })
-
 Continentes.addEventListener('click', filtrado) */
